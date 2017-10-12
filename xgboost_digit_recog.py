@@ -76,4 +76,4 @@ np.savetxt('xgb_submission.csv',np.c_[range(1,len(tests)+1),preds],delimiter=','
 
 #输出运行时长
 cost_time = time.time()-start_time
-print("xgboost success!"+'\n'+"cost time:"+cost_time+"(s)")
+print("xgboost success!"+'\n'+"cost time:"+str(cost_time)+"(s)")
