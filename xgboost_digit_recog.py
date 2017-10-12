@@ -45,7 +45,7 @@ params={
 }
 
 plst = list(params.items())
-num_rounds = 5000 # 迭代次数
+num_rounds = 100 # 迭代次数
 
 train_xy,val = train_test_split(train, test_size = 0.3,random_state=1)
 #random_state is of big influence for val-auc
