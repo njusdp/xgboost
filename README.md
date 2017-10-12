@@ -5,5 +5,5 @@
 
 3.关于xgboost与GBDT的区别，详见wepon大神的回复：https://www.zhihu.com/question/41354392
 
-注：传统GBDT以CART作为基分类器，xgboost还支持线性分类器，此时xgboost相当于带L1和L2正则化项的逻辑斯蒂回归（分类问题）或者线性回归（回归问题）
+注：传统GBDT以CART作为基分类器，xgboost还支持线性分类器，此时xgboost相当于带L1和L2正则化项的逻辑斯蒂回归（分类问题）或者线性回归（回归问题），XGBoost介绍详见（https://github.com/dmlc/xgboost）
 
