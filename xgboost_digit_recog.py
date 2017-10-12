@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #coding=utf-8
 """
-Created on 2016/09/17
-By 我曾经被山河大海跨过
+Created on 2017/10/12
+By sundaoping
 """
 import numpy as np
 import pandas as pd
